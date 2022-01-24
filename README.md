@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @illettante
-- 👀 I’m interested in general
-- 🌱 I’m currently learning to walk
+- 👀 I’m interested
+- 🌱 I’m currently learning to walk, talk and digest food
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...?
 
