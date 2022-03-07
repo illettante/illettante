@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @illettante
-- 👀 I’m interested
-- 🌱 I’m currently learning to walk, talk and digest food
+- 👀 I’m uninteresting
+- 🌱 I’m currently learning the truth is more complicated than that 
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me ...?
+- 📫 Why would you want to reach me ...?
 
 <!---
 illettante/illettante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
